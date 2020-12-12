@@ -1,0 +1,7 @@
+aws_access_key = "********************"
+aws_secret_key = "********************"
+vpc_name="terraform_vpc"
+aws_region="us-east-1"
+IGW_name="Terraform_IGw"
+vpc_cidr="10.1.0.0/16"
+Main_Routing_Table="Terraform_Route"
